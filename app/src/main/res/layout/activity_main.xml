@@ -16,13 +16,18 @@
             android:layout_height="wrap_content"
             android:text="안녕하세요"
             android:textColor="#9ACD32"
+            android:textSize="25sp"
 
             />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="반갑습니다"/>
+            android:text="반갑습니다"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#ff3333"
+            />
 
         <TextView
             android:layout_width="wrap_content"
